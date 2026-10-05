@@ -223,3 +223,12 @@ Star the repo if you find it useful!
 **Made for supply chain managers, logistics engineers, and operations professionals.**
 
 Let's make supply chain management more open, transparent, and resilient.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Supply-Chain-Management-SCM&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Supply-Chain-Management-SCM_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Supply-Chain-Management-SCM_growth.svg">
+  </picture>
+</a>
